@@ -1,0 +1,4 @@
+#Sun Dec 29 14:06:19 CET 2019
+base.0=C\:\\Users\\ace_r\\Desktop\\EZbirka\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
